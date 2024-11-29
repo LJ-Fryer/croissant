@@ -1,11 +1,22 @@
 body {
   background-color: #f0c1e1;
 }
-h1 {
+h1,
+p,
+footer,
+.navigation-links {
   text-align: center;
 }
 img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+img {
+  max-width: 60%;
+  padding: 10px 0 30px;
+}
+.navigation-links a {
+  margin: 0 10px;
+  color: rgb(180, 21, 124);
 }
