@@ -13,10 +13,16 @@ img {
   margin: 30px auto;
   border-radius: 7px;
 }
+a {
+  text-decoration: none;
+}
 .navigation-links {
   margin-top: 20px;
 }
 .navigation-links a {
   margin: 0 10px;
   color: rgb(180, 21, 124);
+}
+a:hover {
+  color: rgb(11, 172, 124);
 }
