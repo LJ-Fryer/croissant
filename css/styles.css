@@ -10,11 +10,8 @@ footer,
 img {
   max-width: 100%;
   display: block;
-  margin: 0 auto;
-}
-img {
-  max-width: 60%;
-  padding: 10px 0 30px;
+  margin: 30px auto;
+  border-radius: 7px;
 }
 .navigation-links a {
   margin: 0 10px;
